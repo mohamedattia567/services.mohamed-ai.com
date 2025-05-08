@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar">
 <head>
   <meta charset="UTF-8" />
@@ -208,9 +208,3 @@
       alert('عرض تفاصيل الخدمة: ' + serviceName);
       // Implement modal or details as needed
     }
-  </script>
-</body>
-</html>
-</content>
-</create_file>
-
